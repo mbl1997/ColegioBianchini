@@ -1,0 +1,45 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border: 10px;
+}
+
+h5 {
+    color: #F0F8FF;
+    text-align: center;
+    font-size: larger;
+    font-size: 18pt;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+
+}  
+
+p {
+    color:#F0F8FF;
+    text-align: center;
+    font-size: larger;
+    font-size: 18pt;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+ }
+
+  /* Muda o tempo do carousel, e tira o mousehover */
+ /* $('.carousel').carousel({
+    interval: 3200,
+    cycle: true,
+    pause: "null"
+  })*/
+
+ 
+@media(max-width: 768px) {
+    .col {
+        width: 100%;
+        font-size: 20px;
+    }
+}
