@@ -46,7 +46,7 @@ Banco de Dados (MySQL) (se houver portal do aluno)
 
 
 🚀 Como Rodar Localmente
-1. Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
+1. Clone o repositório: git clone https: https://github.com/mbl1997/ColegioBianchini
 
 2. Navegue até o diretório: cd nome-do-repositorio
 
