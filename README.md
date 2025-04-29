@@ -1,4 +1,5 @@
 🏫 Projeto: COLEGIO BIANCHINI
+
 Bem-vindo ao repositório do Website do Colégio Bianchini!
 Este projeto é um site institucional desenvolvido para uma escola fictícia, oferecendo uma plataforma moderna e responsiva para apresentar informações importantes a alunos, pais, professores e visitantes.
 
@@ -48,7 +49,7 @@ Banco de Dados (MySQL) (se houver portal do aluno)
 🚀 Como Rodar Localmente
 1. Clone o repositório: git clone https: https://github.com/mbl1997/ColegioBianchini
 
-2. Navegue até o diretório: cd nome-do-repositorio
+2. Navegue até o diretório: cd ColegioBianchini
 
 
 Melhorias Futuras:
