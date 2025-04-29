@@ -5,6 +5,7 @@ Este projeto é um site institucional desenvolvido para uma escola fictícia, of
 
 
 ✨ Funcionalidades
+
 📚 Apresentação Institucional: História da escola, missão, visão e valores.
 🏫 Estrutura Física: Galeria de fotos das instalações.
 👨‍🎓 Portal do Aluno: Acesso a boletins.
@@ -13,15 +14,17 @@ Este projeto é um site institucional desenvolvido para uma escola fictícia, of
 
 
 🛠️ Tecnologias Utilizadas
+
 HTML5
 CSS3 (com Bootstrap para responsividade)
 JavaScript
 PHP (opcional, para formulários dinâmicos)
 Banco de Dados (MySQL) (se houver portal do aluno)
-Ícones: FontAwesome ou emojis 🎯
+Ícones: FontAwesome ou emojis.
 
 
 🎨 Layout e Design
+
 - O layout foi pensado para ser:
 - Simples e elegante 🧩
 - Foco na acessibilidade ♿
@@ -31,6 +34,7 @@ Banco de Dados (MySQL) (se houver portal do aluno)
 
 
 📋 Estrutura de Pastas
+
 /
 ├── index.html
 ├── cursos.html
@@ -47,15 +51,15 @@ Banco de Dados (MySQL) (se houver portal do aluno)
 
 
 🚀 Como Rodar Localmente
+
 1. Clone o repositório: git clone https: https://github.com/mbl1997/ColegioBianchini
 
 2. Navegue até o diretório: cd ColegioBianchini
 
 
-Melhorias Futuras:
-Integração com sistema de matrícula online
-Área de boletim escolar online
-Sistema de mensagens internas entre alunos e professores
-Painel administrativo para a gestão de conteúdos
+🎯 Melhorias Futuras:
 
-
+- Integração com sistema de matrícula online.
+- Área de boletim escolar online.
+- Sistema de mensagens internas entre alunos e professores.
+- Painel administrativo para a gestão de conteúdos.
